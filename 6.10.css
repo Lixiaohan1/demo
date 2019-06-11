@@ -1,0 +1,199 @@
+/*
+* @Author: 李晓涵
+* @Date:   2019-06-10 21:47:20
+* @Last Modified by:   李晓涵
+* @Last Modified time: 2019-06-11 20:43:19
+*/
+body{
+    margin:0 auto;
+    background-color:#ffffff;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration:none;
+}
+a{
+	padding-top: 4px;
+	display: inline-block;
+	float: right;
+}
+li{
+	list-style: none;
+}
+
+.nav{
+	width: 100%;
+	height: 30px;
+	background-color:#f4f4f4;
+}
+.nav-0{
+	width: 1200px;
+	margin: 0 auto;
+}
+.nav-1{
+	padding-top: 4px;
+	display: inline-block;
+	float: left;
+}
+
+.nav img{
+	float: left;
+}
+/* .nav a{
+	color: black;
+} */
+.nav-2{
+	padding-top: 4px;
+	display: inline-block;
+	float: left;
+}
+.nav-3{
+	padding-top: 4px;
+	display: inline-block;
+	float: right;
+}
+.box-0{
+	width: 1200px;
+	height: 160px;
+	margin: 0 auto;
+}
+.box-1{
+	display: inline-block;
+	width: 520px;
+	height: 120px;
+	padding-top: 50px;
+	padding-left: 120px;
+	float: right;
+
+}
+.box-2{
+	width: 100%;
+	background-color: #ffffff;
+	height: 163px;
+	border-bottom:3px solid #e00304;
+
+}
+.box-3{
+	width: 100%;
+	height: 653px;
+	background-color:#fbfbfb;
+}
+.photo-1{
+	float: right;
+	padding-top: 40px;
+	padding-right: 5px;
+}
+.box-4{
+	width: 1200px;
+	height: 40px;
+
+	
+}
+.nav-4 a{
+	display: inline-block;
+	float: left;
+	height: 36px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-right: 20px;
+    
+}
+
+
+.nav-4 a:hover{
+	color:#ffe9e9;
+	display: block;
+	background-color: #fd0304;
+
+}
+
+.input text{
+	border: 1px solid #f83838;
+	width: 500px;
+	height: 40px;
+	display: inline-block;
+	margin-left: 150px;
+	margin-top: 20px;
+}
+.box-5{
+	width: 100%;
+	height: 80px;
+}
+.box-6{
+	width: 1200px;
+	height: 580px;
+	margin:0 auto;
+}
+.three{
+	display: inline-block;
+	float: top;
+	width: 190px;
+	height: 560px;
+}
+.p1{
+	display: inline-block;
+	height: 10px;
+}
+.box-7 img{
+	padding-top: 15px;
+	display: inline-block;
+}
+.box-8{
+	padding-top: 15px;
+	padding-left: 65px;
+}
+.box-9{
+	display: inline-block;
+}
+.box-10{
+	width: 988px;
+	height: 270px
+}
+.one{
+	height: 30px;
+	color:#d1d1d1;
+	text-align: center;
+	display: block;
+
+
+}
+.two{
+	height: 30px;
+	color:#333333;
+	text-align: center;
+    display: block;
+
+}
+.box-11{
+	float: left;
+	display: inline-block;
+	width: 220px;
+	height: 252px;
+    border: 2px solid #dbdbdb; 
+	background-color:#ffffff;
+	margin-right: 16px;
+	margin-bottom: 25px;
+}
+.last{
+	width: 100%;
+	height: 248px;
+	background-color:#2e2e2e;
+}
+.h0{
+	width: 1200px;
+	margin: 0 auto;
+	background-color:#2e2e2e;
+	border-bottom: 2px solid #454545;
+}
+.h0 li{
+	color:#ffffff;
+	font-size: 20px;
+
+}
+.h1{
+	display: inline-block;
+	margin-right: 130px;
+}
